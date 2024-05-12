@@ -1,0 +1,2 @@
+This is a example to create a AWS security group rule creation in teraform dynamically.
+Terraform version: 1.7
