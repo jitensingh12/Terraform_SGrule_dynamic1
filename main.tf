@@ -6,13 +6,6 @@
 
 variable "map_list" {
     type = map(list(any))
-        #type = string
-        #from_port = string
-        #to_port = string
-        #protocol = string
-        #cidr_blocks = string
-        
-    #)))
 }
 
 resource "aws_security_group" "example" {
